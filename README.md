@@ -3,7 +3,7 @@ a real twitter api based appilcation showing the location of a hypothetical devi
 note: the car would send the tweet in the format "gis1234gis number_plate driver_name driver_number family_number"
 
 to use:
-1.install node
+1.install node<br>
 2.go the the extracted folder on the terminal/shell
 3. type node app.js
 4. goto localhost:3000 on the browser
