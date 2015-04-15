@@ -1,0 +1,12 @@
+{
+  "name" : "ROAD MONITOR",
+  "description" : "A REAL TIME TWITTER API BASED GPS LOCATOR OF ACCIDENTED CARS",
+  "homepage" : "http://documentcloud.github.com/underscore/",
+  "keywords" : ["ACCIDENT", "TWITTER", "GPS", "LOCATION", "NODE"],
+  "author" : "ARPAN CHANDRASHEKHAR <connektivion@gmail.com>",
+  "contributors" : [],
+  "dependencies" : [EXPRESS,SOCKET.IO, TWITTER],
+  "repository" : {"type": "git", "url": "git://github.com/connektivion"},
+  "main" : "app.js",
+  "version" : "0.0.0"
+}
